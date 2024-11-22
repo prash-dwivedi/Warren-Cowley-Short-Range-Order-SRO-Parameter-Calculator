@@ -41,13 +41,14 @@ Warren-Cowley SRO parameters quantify the local atomic ordering in multi-compone
 
 ## Citing
 If you use this script in your research, please cite:
-- Cowley, J. M. (1950). An Approximate Theory of Order in Alloys. Physical Review, 77(5), 669-675.
+- Cowley, J. M. (1950).
+- https://doi.org/10.1016/j.surfcoat.2022.129136
 
 ## License
-[Choose an appropriate open-source license, e.g., MIT]
+MIT
 
 ## Contributing
 Contributions are welcome! Please submit pull requests or open issues on GitHub.
 
 ## Contact
-[Your Contact Information]
+Prashant Dwivedi
