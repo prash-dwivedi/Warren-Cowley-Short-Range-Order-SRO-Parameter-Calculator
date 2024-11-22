@@ -4,7 +4,7 @@ Warren-Cowley Short-Range Order (SRO) Parameter Calculator
 This module provides functionality to calculate Warren-Cowley SRO parameters
 for multi-component High-Entropy Alloys using the Ovito Python API.
 
-Author: [Your Name]
+Author: Prashant Dwivedi
 Date: 2024
 Version: 1.0
 """
